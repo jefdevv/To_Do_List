@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="task">Task</string>
+    <string name="task_date">When ?</string>
+    <string name="hour">Hour ?</string>
+    <string name="save">SAVE</string>
+    <string name="to_do_list">Register Task</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="empty_field">Empty Field</string>
+</resources>

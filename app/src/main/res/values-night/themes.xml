@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDoList" parent="Theme.Material3.Dark">
+        <!-- Customize your dark theme here. -->
+
+        <item name="android:statusBarColor">#000000</item>
+    </style>
+</resources>

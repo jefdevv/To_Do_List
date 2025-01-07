@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Tarefa</string>
+    <string name="dark_mode">Modo Escuro</string>
+    <string name="task">Tarefa</string>
+    <string name="task_date">Data da Tarefa</string>
+    <string name="hour">Hora</string>
+    <string name="save">SALVAR</string>
+    <string name="to_do_list">Cadastrar Tarefa</string>
+    <string name="light_mode">Modo Claro</string>
+    <string name="empty_field">Campo Vazio</string>
+</resources>
